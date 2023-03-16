@@ -1,0 +1,38 @@
+.fixed .column-shortcode {
+    width: 38%;
+}
+
+span.shortcode {
+    display: block;
+    margin: 2px 0;
+}
+
+span.shortcode input {
+    background: transparent;
+    font-size: 12px;
+    border: none;
+    box-shadow: none;
+    padding: 4px 8px;
+    margin: 0;
+    color: #444;
+    width: 100%;
+}
+
+/*
+ * List Table
+ */
+.fixed .column-title {
+    width: 38%;
+}
+
+.column-size, .column-duration, .column-status {
+    width: 10%;
+}
+
+.row-actions {
+    visibility: hidden;
+}
+
+tr:hover .row-actions {
+    visibility: visible;
+}

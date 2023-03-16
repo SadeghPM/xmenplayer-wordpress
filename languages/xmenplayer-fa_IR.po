@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XMenPlayer 1.0.0\n"
+"Report-Msgid-Bugs-To: sadeghpm@gmail.com\n"
+"POT-Creation-Date: 2023-03-05 14:30+0100\n"
+"Last-Translator: SadeghPM <sadeghpm@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: xmenplayer.php:20
+msgid "Video Detail"
+msgstr "جزئیات ویدیو"
+
+#: xmenplayer.php:22
+msgid "Title"
+msgstr "عنوان"
+
+#: xmenplayer.php:23
+msgid "Status"
+msgstr "وضعیت"
+
+#: xmenplayer.php:24
+msgid "Secured"
+msgstr "امنیتی"
+
+#: xmenplayer.php:25
+msgid "Size"
+msgstr "حجم"
+
+#: xmenplayer.php:26
+msgid "Duration"
+msgstr "مدت زمان"
+
+#: xmenplayer.php:28
+msgid "Video Download URL"
+msgstr "آدرس دانلود ویدیو"
+
+#: xmenplayer.php:33
+msgid "Player iFrame"
+msgstr "فریم پخش کننده"
+
+#: xmenplayer.php:38
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+#: Setting page
+msgid "Settings Page"
+msgstr "صفحه تنظیمات"
+
+msgid "Error in getting token information"
+msgstr "خطا در دریافت اطلاعات توکن"
+
+msgid "Settings saved successfully"
+msgstr "اطلاعات توکن دریافت شد"
+
+msgid "Api user:"
+msgstr "کاربر API:"
+
+msgid "API Token:"
+msgstr "توکن API:"
+
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: LIST page
+msgid "Your Videos"
+msgstr "ویدیوهای شما"
+
+
+msgid "Shortcode"
+msgstr "کدکوتاه"
+
+msgid "Actions"
+msgstr "عملیات‌ها"
+
+msgid "View"
+msgstr "نمایش"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Created At"
+msgstr "ایجاد در"
+
+msgid "&laquo;"
+msgstr "&laquo;"
+
+msgid "&raquo;"
+msgstr "&raquo;"
+
+msgid "Thumbnail"
+msgstr "تصویر ویدیو"
+
+msgid "No videos found."
+msgstr "ویدیویی یافت نشد."
+
+msgid "Page %1$d of %2$d"
+msgstr "صفحه %1$d از %2$d"
+
+#: CREATE VIDEO
+msgid "Create New Video"
+msgstr "ایجاد ویدیو جدید"
+
+msgid "Select a Video*"
+msgstr "انتخاب ویدئو *"
+
+msgid "Select Video"
+msgstr "انتخاب ویدئو"
+
+msgid "Use this video"
+msgstr "از این ویدیو استفاده کن"
+
+msgid "Video Title*"
+msgstr "عنوان ویدئو *"
+
+msgid "Secure"
+msgstr "امن"
+
+msgid "Video played based on users ip"
+msgstr "ویدئو بر اساس IP کاربران پخش می شود"
+
+msgid "Video created successfully."
+msgstr "درخواست ویدیو جدید دریافت شد."
+
+#: MENU
+msgid "Xmen Player"
+msgstr "Xmen Player"
+
+msgid "All Videos"
+msgstr "تمام ویدئو ها"
+
+msgid "New Video"
+msgstr "ویدئو جدید"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "XmenPLayer Plugin"
+msgstr "پخش‌کننده‌ ویدیوی xmenplayer"
+
+msgid "We offer the ultimate in online video security, so you can stream your favorite content with confidence. Our platform is designed to protect your videos and memories, so you can enjoy them for years to come."
+msgstr "ما بهترین امنیت ویدئویی آنلاین را ارائه می‌دهیم تا شما بتوانید با اطمینان محتوای مورد علاقه خود را پخش کنید. پلتفرم ما برای حفاظت از ویدئوها و خاطرات شما طراحی شده است تا شما بتوانید برای سال‌های آینده از آن‌ها لذت ببرید."
+
+msgid "API user:"
+msgstr "کاربر:"
+
