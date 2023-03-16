@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XMenPlayer 1.0.0\n"
+"Report-Msgid-Bugs-To: sadeghpm@gmail.com\n"
+"POT-Creation-Date: 2023-03-05 14:30+0100\n"
+"Last-Translator: SadeghPM sadeghpm@gmail.com\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: xmenplayer.php:20
+msgid "Video Detail"
+msgstr "Videoinformation"
+
+#: xmenplayer.php:22
+msgid "Title"
+msgstr "Titel"
+
+#: xmenplayer.php:23
+msgid "Status"
+msgstr "Status"
+
+#: xmenplayer.php:24
+msgid "Secured"
+msgstr "Säkrad"
+
+#: xmenplayer.php:25
+msgid "Size"
+msgstr "Storlek"
+
+#: xmenplayer.php:26
+msgid "Duration"
+msgstr "Speltid"
+
+#: xmenplayer.php:28
+msgid "Video Download URL"
+msgstr "Ladda ner URL för video"
+
+#: xmenplayer.php:33
+msgid "Player iFrame"
+msgstr "Spelar iFrame"
+
+#: xmenplayer.php:38
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: Setting page
+msgid "Settings Page"
+msgstr "Inställningssida"
+
+msgid "Error in getting token information"
+msgstr "Fel vid hämtning av tokeninformation"
+
+msgid "Settings saved successfully"
+msgstr "Inställningar har sparats"
+
+msgid "Api user:"
+msgstr "API-användare:"
+
+msgid "API Token:"
+msgstr "API-tokens:"
+
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: LIST page
+msgid "Your Videos"
+msgstr "Dina videor"
+
+msgid "Shortcode"
+msgstr "Kortkod"
+
+msgid "Actions"
+msgstr "Åtgärder"
+
+msgid "View"
+msgstr "Visa"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Delete"
+msgstr "Ta bort"
+
+msgid "Created At"
+msgstr "Skapad vid"
+
+msgid "«"
+msgstr "«"
+
+msgid "»"
+msgstr "»"
+
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+msgid "No videos found."
+msgstr "Inga videor hittades."
+
+msgid "Page %1$d of %2$d"
+msgstr "Sida %1$d av %2$d"
+
+#: CREATE VIDEO
+msgid "Create New Video"
+msgstr "Skapa ny video"
+
+msgid "Select a Video*"
+msgstr "Välj en video *"
+
+msgid "Select Video"
+msgstr "Välj video"
+
+msgid "Use this video"
+msgstr "Använd den här videon"
+
+msgid "Video Title*"
+msgstr "Videotitel *"
+
+msgid "Secure"
+msgstr "Säker"
+
+msgid "Video played based on users ip"
+msgstr "Video spelas baserat på användares IP"
+
+msgid "Video created successfully."
+msgstr "Video skapad framgångsrikt."
+
+#: MENU
+msgid "Xmen Player"
+msgstr "Xmen Player"
+
+msgid "All Videos"
+msgstr "Alla Videos"
+
+msgid "New Video"
+msgstr "Ny Video"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "XmenPLayer Plugin"
+msgstr "XmenPLayer Plugin"
+
+msgid "We offer the ultimate in online video security, so you can stream your favorite content with confidence. Our platform is designed to protect your videos and memories, so you can enjoy them for years to come."
+msgstr "Vi erbjuder det ultimata inom säkerhet för onlinevideo, så att du kan strömma ditt favoritinnehåll med förtroende. Vår plattform är utformad för att skydda dina videor och minnen, så att du kan njuta av dem i många år framöver."
+
+msgid "API user:"
+msgstr "API-användare:"
