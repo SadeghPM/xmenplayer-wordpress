@@ -120,7 +120,7 @@ msgid "Video Title*"
 msgstr "Videotitel *"
 
 msgid "Secure"
-msgstr "Säker"
+msgstr "Säkra"
 
 msgid "Video played based on users ip"
 msgstr "Video spelas baserat på användares IP"
